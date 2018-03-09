@@ -12,8 +12,8 @@ Development:
 
 Instructions To Use:
 
-	1. Download/ clone the repository
-	2. open the file using IDLE (python IDE)
+	1. Download / clone the repository
+	2. open the file using IDLE (python IDE). Python needs to be installed.
 	3. Run the code and enjoy!
  
 
